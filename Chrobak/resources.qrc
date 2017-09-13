@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Chrobak" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
